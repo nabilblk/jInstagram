@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="jInstagram:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/jInstagram_jar</output-path>
+    <root id="archive" name="jInstagram.jar">
+      <element id="module-output" name="jInstagram" />
+      <element id="library" level="module" name="gson-1.7.1.jar" module-name="jInstagram" />
+    </root>
+  </artifact>
+</component>
